@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "56ug+GF4sWYk0WJ0c2mWthxsxYoVSjeDh8gmMA15dKCqJg1yi8I+MbYjgVVjLEJoLt9CCETuYtjDgCuvSYnwdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mojta\\source\\repos\\mostafa\\mostafa\\mostafa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mojta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
