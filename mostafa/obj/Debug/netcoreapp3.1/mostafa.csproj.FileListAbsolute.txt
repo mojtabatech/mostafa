@@ -1,0 +1,13 @@
+C:\Users\mojta\source\repos\mostafa\mostafa\bin\Debug\netcoreapp3.1\mostafa.exe
+C:\Users\mojta\source\repos\mostafa\mostafa\bin\Debug\netcoreapp3.1\mostafa.deps.json
+C:\Users\mojta\source\repos\mostafa\mostafa\bin\Debug\netcoreapp3.1\mostafa.runtimeconfig.json
+C:\Users\mojta\source\repos\mostafa\mostafa\bin\Debug\netcoreapp3.1\mostafa.runtimeconfig.dev.json
+C:\Users\mojta\source\repos\mostafa\mostafa\bin\Debug\netcoreapp3.1\mostafa.dll
+C:\Users\mojta\source\repos\mostafa\mostafa\bin\Debug\netcoreapp3.1\mostafa.pdb
+C:\Users\mojta\source\repos\mostafa\mostafa\obj\Debug\netcoreapp3.1\mostafa.csprojAssemblyReference.cache
+C:\Users\mojta\source\repos\mostafa\mostafa\obj\Debug\netcoreapp3.1\mostafa.AssemblyInfoInputs.cache
+C:\Users\mojta\source\repos\mostafa\mostafa\obj\Debug\netcoreapp3.1\mostafa.AssemblyInfo.cs
+C:\Users\mojta\source\repos\mostafa\mostafa\obj\Debug\netcoreapp3.1\mostafa.csproj.CoreCompileInputs.cache
+C:\Users\mojta\source\repos\mostafa\mostafa\obj\Debug\netcoreapp3.1\mostafa.dll
+C:\Users\mojta\source\repos\mostafa\mostafa\obj\Debug\netcoreapp3.1\mostafa.pdb
+C:\Users\mojta\source\repos\mostafa\mostafa\obj\Debug\netcoreapp3.1\mostafa.genruntimeconfig.cache
