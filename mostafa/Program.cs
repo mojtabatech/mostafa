@@ -6,7 +6,7 @@ namespace mostafa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello mojtaba!");
+            Console.WriteLine("salam mojtaba!");
         }
     }
 }
